@@ -216,4 +216,8 @@ In this Project:
 
 ### The summary addresses one drawback of this webpage 
 
+One drawback is that there is no update button which can actually let the user know about the updation of the data.
+
 ### The summary addresses two additional recommendations for further development 
+    - We can introduce the drop down buttons with the respective values which will further increase the efficiency of this webpage.
+    - 
