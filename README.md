@@ -2,11 +2,11 @@
 ## Overview of the analysis:
 [Index HTML File](index.html)
 
-[App JS File](static/app.js)
+[App JS File](static/js/app.js)
 
-[Data JS File](static/data.js)
+[Data JS File](static/js/data.js)
 
-[CSS File](static/style.css)
+[CSS File](static/css/style.css)
 
 In this Analysis, we will be using Javascript as the primary coding language, which has been designed to enhance HTML.It's the backbone of many popular visualization libraries, such as Plotly, and is often used to create custom dashboards. JavaScript also provides a high level of customization: the dashboards built to deliver visual data, such as maps or graphs, can be as simple or complex as needed.
 
