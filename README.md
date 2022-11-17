@@ -14,9 +14,21 @@ In this Project:
       
       We will customize your webpage using Bootstrap, and equip your table with several fully functional filters that will allow users to interact with our                   visualizations.
     
-## Results:
+## Results: Code and Images
+### Deliverable 1: Filter UFO sightings on multiple criteria
 
-### There is a description of how to perform a search, with images. 
+      Using Javascript we will modify index.html file to create more table filters.
+      
+      The event listener is modified to detect changes to each filter in the app.js file.
+      
+      The updateFilters() function saves the element, value, and the id of the filter that was changed. 
+      
+      The filterTable() function loops through all of the filters and keeps any data that matches the filter values.
+      
+      The webpage filters the table correctly based on user input. 
+    
+    
+
 
 ## Summary:
 
