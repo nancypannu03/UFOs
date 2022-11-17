@@ -7,8 +7,11 @@ To be successful in this module, we'll apply HTML and Bootstrap skills and have 
 
 ### The purpose of the analysis:
 In this Project:
+
       We will build a table using data stored in a JavaScript array. 
+      
       We will create filters to make this table fully dynamic, meaning that it will react to user input, and then place the table into an HTML file for easy viewing.
+      
       We will customize your webpage using Bootstrap, and equip your table with several fully functional filters that will allow users to interact with our                   visualizations.
     
 ## Results:
