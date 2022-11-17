@@ -216,8 +216,9 @@ In this Project:
 
 ### The summary addresses one drawback of this webpage 
 
-One drawback is that there is no update button which can actually let the user know about the updation of the data.
+    - One drawback is that there is no update button which can actually let the user know about the updation of the data.
+    - The table fields are case-sensitive, we wont get the results if we dont enter the data as it is stored in data.js file.
 
 ### The summary addresses two additional recommendations for further development 
-    - We can introduce the drop down buttons with the respective values which will further increase the efficiency of this webpage.
-    - 
+    - We can introduce the drop down buttons with the drop down lists, which will further increase the efficiency of this webpage.
+    - We can enhance the capability of the webpage by introducing auto- fill options for the user, in order to make the web page more user-interactive
