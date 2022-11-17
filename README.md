@@ -33,10 +33,11 @@ In this Project:
       The filterTable() function loops through all of the filters and keeps any data that matches the filter values.
       
       The webpage filters the table correctly based on user input. 
+      
  #### HTML Code
  
-    </head>
-<body class ="bg-dark">
+     </head>
+  <body class ="bg-dark">
     
         <div class="wrapper">
             <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
@@ -136,9 +137,10 @@ In this Project:
     
 </body>
 </html>
- ![Test Image](/Resources/main.png)
+
+![Test Image](/Resources/main.png)
     
- ![Test Image](/Resources/filter_Image.png)
+![Test Image](/Resources/filter_Image.png)
  
   
 #### JS Code 
